@@ -6,3 +6,5 @@ My azure resume following ACG projects video.
 - Frontend folder contains the website.
 - Updated resume details to represent me.
 - main.js contaisn the vistor counter code. 
+
+// add some screenshots of my process through the code keep a log of everything I do 
